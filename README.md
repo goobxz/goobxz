@@ -49,18 +49,7 @@ Me chamo Gustavo Martins, tenho 22 anos e sou natural de São Paulo. Concluí o 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=goobxz&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=goobxz&theme=tokyonight&layout=compact&locale=pt-br" 
-  />
+  ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=goobxz&show_icons=true&include_all_commits=true&theme=tokyonight&locale=pt-br)
+  ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goobxz&theme=tokyonight&layout=compact&locale=pt-br)
 </p>
