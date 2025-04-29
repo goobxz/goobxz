@@ -115,11 +115,27 @@ Me chamo Gustavo Martins, tenho 22 anos e sou natural de São Paulo. Concluí o 
 />
 <img 
     align="left" 
+    alt="TensorFlow" 
+    title="TensorFlow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Keras" 
     title="Keras"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Hadoop" 
+    title="Hadoop"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" 
 />
 
 
