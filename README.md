@@ -41,6 +41,86 @@ Me chamo Gustavo Martins, tenho 22 anos e sou natural de São Paulo. Concluí o 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Tableau" 
+    title="Tableau"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Machine Learning" 
+    title="Machine Learning"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=fTkqveCX0blI&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Estatística" 
+    title="Estatística"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=-fcp7PY7LOpz&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Data Cleaning" 
+    title="Data Cleaning"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=DXyicYvZaepL&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Scikit Learn" 
+    title="Scikit Learn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PyTorch" 
+    title="PyTorch"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Keras" 
+    title="Keras"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" 
+/>
 
 
 <br/>
